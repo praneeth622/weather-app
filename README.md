@@ -18,7 +18,7 @@ This is a simple weather application that provides current weather information b
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/praneeth622/weather-app.git
+`git clone https://github.com/praneeth622/weather-app.git`
 
 
 2. Install dependencies:

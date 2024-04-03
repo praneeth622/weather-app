@@ -1,10 +1,12 @@
-# Weather App
+# Weather App Extention
 
-This is a simple weather application that provides current weather information based on the user's input city.
+This is a simple weather application extention that provides current weather information based on the user's input city.
 
 ## Features
 
 - Retrieve current weather information for a specific city.
+- Easy to Access.
+- Can access in Browser.
 - Display temperature in both Celsius and Fahrenheit.
 - Show weather condition (e.g., sunny, cloudy, rainy, etc.).
 - Error handling for incorrect city names.
@@ -29,10 +31,9 @@ This is a simple weather application that provides current weather information b
 
 3. Start the development server:
 
-`npm start`
+- `npm start`
+ - Open Google Chrome and go to `chrome://extensions/`. Enable Developer mode and click on "Load unpacked". Select the **build directory** of your React app.
 
-
-4. Open your browser and navigate to `http://localhost:3000`.
 
 ## Credits
 

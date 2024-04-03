@@ -21,5 +21,11 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "version": "1.0",
+  "description": "Displays weather information",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["https://api.openweathermap.org/*"]
 }
